@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently working on the following projects:
   - [MathUwU](https://github.com/keanekwa/MathUwU) (Full-stack web development project for quantitative finance interview preparation)
-  - [Algorithms-in-Python-and-CPP](https://github.com/keanekwa/Algorithms-in-Python-and-CPP) (Python & C++ algorithm repository)
 
 
 - 💻 My most recent projects span across the following domains:
