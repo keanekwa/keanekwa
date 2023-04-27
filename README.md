@@ -5,7 +5,7 @@
 
 
 - 💻 My most recent projects span across the following domains:
-  - [Optiver-Ready-Trader-Go] (https://github.com/keanekwa/Optiver-Ready-Trader-Go) (Quant trading algorithm)
+  - [Optiver-Ready-Trader-Go](https://github.com/keanekwa/Optiver-Ready-Trader-Go) (Quant trading algorithm)
   - [Cryptographic-File-Sharing-System](https://github.com/keanekwa/Cryptographic-File-Sharing-System) (Cybersecurity project built in Go)
   - [Inflation Prediction](https://github.com/keanekwa/Inflation-Prediction) (Machine Learning x Finance/macroeconomics project)
   - [D'Ticket](https://github.com/keanekwa/D-Ticket) (Decentralized ticketing system built with Blockchain / Web3)
