@@ -3,8 +3,8 @@
 - 💻 My most recent projects include:
   - [Optiver-Ready-Trader-Go](https://github.com/keanekwa/Optiver-Ready-Trader-Go) (Quantitative finance trading algorithm)
   - [MathUwU](https://github.com/keanekwa/MathUwU) (Full-stack web development project for quantitative finance interview preparation)
-  - [Cryptographic-File-Sharing-System](https://github.com/keanekwa/Cryptographic-File-Sharing-System) (Cybersecurity project built in Go)
   - [Inflation Prediction](https://github.com/keanekwa/Inflation-Prediction) (Machine Learning x Finance/macroeconomics project)
+  - [Cryptographic-File-Sharing-System](https://github.com/keanekwa/Cryptographic-File-Sharing-System) (Cybersecurity project built in Go)
 
 - 💼 I will be interning at AlphaGrep as a Quantitative Developer Intern in Summer 2023.
 
