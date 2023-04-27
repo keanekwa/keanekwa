@@ -14,7 +14,7 @@
 - 🤝 I’m looking to collaborate on open-source projects, particularly Python, JavaScript/TypeScript, or C++ projects.
 
 
-- 🏫 I'm currently a visiting student at UC Berkeley. My home university is Nanyang Technological University in Singapore, where I study Computer Science & Technology Management.
+- 🏫 I am doing a Direct-Masters program at the Nanyang Technological University in Singapore, studying Computer Science & Technology Management. I have also spent a year at UC Berkeley studying Computer Science under a fully-subsidized scholarship.
 
 
 - 📫 How to reach me: keanekwa@berkeley.edu
