@@ -14,6 +14,9 @@
 - 🤝 I’m looking to collaborate on open-source projects, particularly Python, JavaScript/TypeScript, or C++ projects.
 
 
+- 💼 I will be interning at AlphaGrep as a Quantitative Developer Intern in Summer 2023.
+
+
 - 🏫 I am doing a Direct-Masters program at the Nanyang Technological University in Singapore, studying Computer Science & Technology Management. I have also spent a year at UC Berkeley studying Computer Science under a fully-subsidized scholarship.
 
 
