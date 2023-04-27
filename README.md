@@ -5,7 +5,6 @@
   - [MathUwU](https://github.com/keanekwa/MathUwU) (Full-stack web development project for quantitative finance interview preparation)
   - [Cryptographic-File-Sharing-System](https://github.com/keanekwa/Cryptographic-File-Sharing-System) (Cybersecurity project built in Go)
   - [Inflation Prediction](https://github.com/keanekwa/Inflation-Prediction) (Machine Learning x Finance/macroeconomics project)
-  - [D'Ticket](https://github.com/keanekwa/D-Ticket) (Decentralized ticketing system built with Blockchain / Web3)
 
 - 💼 I will be interning at AlphaGrep as a Quantitative Developer Intern in Summer 2023.
 
