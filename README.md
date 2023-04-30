@@ -12,6 +12,6 @@
 
 - 🤝 I’m looking to collaborate on open-source projects, particularly Python, JavaScript/TypeScript, or C++ projects.
 
-- 📫 How to reach me: keanekwa@outlook.com
+- 📫 Socials: [Email](mailto:keanekwa@outlook.com) | [LinkedIn](https://www.linkedin.com/in/keane-kwa/) | [LeetCode](https://leetcode.com/keanekwa/)
 
-[LinkedIn](https://www.linkedin.com/in/keane-kwa/) | [LeetCode](https://leetcode.com/keanekwa/)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?theme=transparent&username=keanekwa&size_weight=0.5&count_weight=0.5&hide=jupyter%20notebook&layout=compact)
