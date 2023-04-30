@@ -14,4 +14,4 @@
 
 - 📫 Socials: [Email](mailto:keanekwa@outlook.com) | [LinkedIn](https://www.linkedin.com/in/keane-kwa/) | [LeetCode](https://leetcode.com/keanekwa/)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?theme=transparent&username=keanekwa&size_weight=0.5&count_weight=0.5&hide=jupyter%20notebook&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?theme=transparent&username=keanekwa&size_weight=0.5&count_weight=0.5&hide=jupyter%20notebook,batchfile&layout=compact&langs_count=6&card_width=400)
