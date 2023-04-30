@@ -5,7 +5,6 @@
   - [Black-Scholes-Implied-Volatility-Calculator](https://github.com/keanekwa/Black-Scholes-Implied-Volatility-Calculator) (Financial options IV calculator using the BSM model)
   - [MathUwU](https://github.com/keanekwa/MathUwU) (Full-stack web development project for quantitative finance interview preparation)
   - [Inflation Prediction](https://github.com/keanekwa/Inflation-Prediction) (Machine Learning x Finance/macroeconomics project)
-  - [Cryptographic-File-Sharing-System](https://github.com/keanekwa/Cryptographic-File-Sharing-System) (Cybersecurity project built in Go)
 
 - 💼 I will be interning at AlphaGrep as a Quantitative Developer Intern in Summer 2023.
 
