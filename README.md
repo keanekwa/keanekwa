@@ -2,7 +2,6 @@
 
 - 💻 My most recent projects include:
   - [Optiver-Ready-Trader-Go](https://github.com/keanekwa/Optiver-Ready-Trader-Go) (Quantitative finance trading algorithm submitted for an Optiver trading competition)
-  - [Black-Scholes-Implied-Volatility-Calculator](https://github.com/keanekwa/Black-Scholes-Implied-Volatility-Calculator) (Financial options IV calculator using the BSM model)
   - [MathUwU](https://github.com/keanekwa/MathUwU) (Full-stack web development project for quantitative finance interview preparation)
   - [Inflation Prediction](https://github.com/keanekwa/Inflation-Prediction) (Machine Learning x Finance/macroeconomics project)
 
