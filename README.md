@@ -5,7 +5,7 @@
   - [MathUwU](https://github.com/keanekwa/MathUwU) (Full-stack web development project for quantitative finance interview preparation)
   - [Inflation Prediction](https://github.com/keanekwa/Inflation-Prediction) (Machine Learning x Finance/macroeconomics project)
 
-- 💼 I am interning at AlphaGrep as a Quantitative Researcher & Developer Intern in Summer 2023.
+- 💼 I interned at AlphaGrep as a Quantitative Researcher Intern in Summer 2023.
 
 - 🏫 I am enrolled in a Direct-Masters program at the Nanyang Technological University in Singapore, studying Computer Science & Technology Management. I have also spent a year at UC Berkeley studying Computer Science under a fully-subsidized scholarship.
 
